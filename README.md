@@ -1,4 +1,4 @@
-opIco Store is a modern, responsive front-end template for an online store, developed using HTML5, CSS3, and vanilla JavaScript, with jQuery used to build an animated loading screen.
+TopIco Store is a modern, responsive front-end template for an online store, developed using HTML5, CSS3, and vanilla JavaScript, with jQuery used to build an animated loading screen.
 
 This project focuses on clean UI/UX, responsiveness across all screen sizes, and a polished feel that enhances the user's first impression through a custom preloader animation.
 
