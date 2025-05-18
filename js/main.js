@@ -83,7 +83,7 @@ async function getItems() {
         JSON.stringify(choosenItemInfo)
       );
 
-      window.location.href = "../itemPage.html";
+      window.location.href = "..//itemPage.html";
     });
   }
 
